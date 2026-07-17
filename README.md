@@ -1,4 +1,4 @@
-# Testes Playwright
+# Testes Playwright em TypeScript
 
 Automação do fluxo:
 - cadastro
